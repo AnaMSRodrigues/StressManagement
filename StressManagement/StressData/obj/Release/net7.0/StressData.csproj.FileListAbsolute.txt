@@ -1,0 +1,12 @@
+/Users/margaridarodrigues/Projects/StressManagement/StressData/bin/Release/net7.0/StressData.deps.json
+/Users/margaridarodrigues/Projects/StressManagement/StressData/bin/Release/net7.0/StressData.dll
+/Users/margaridarodrigues/Projects/StressManagement/StressData/bin/Release/net7.0/StressData.pdb
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/StressData.csproj.AssemblyReference.cache
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/StressData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/StressData.AssemblyInfoInputs.cache
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/StressData.AssemblyInfo.cs
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/StressData.csproj.CoreCompileInputs.cache
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/StressData.dll
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/refint/StressData.dll
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/StressData.pdb
+/Users/margaridarodrigues/Projects/StressManagement/StressData/obj/Release/net7.0/ref/StressData.dll

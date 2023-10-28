@@ -1,0 +1,17 @@
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.csproj.AssemblyReference.cache
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.AssemblyInfoInputs.cache
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.AssemblyInfo.cs
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.csproj.CoreCompileInputs.cache
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/bin/Debug/net7.0/StressManagement
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/bin/Debug/net7.0/StressManagement.deps.json
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/bin/Debug/net7.0/StressManagement.runtimeconfig.json
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/bin/Debug/net7.0/StressManagement.dll
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/bin/Debug/net7.0/StressManagement.pdb
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.csproj.CopyComplete
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.dll
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/refint/StressManagement.dll
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.pdb
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/StressManagement.genruntimeconfig.cache
+/Users/margaridarodrigues/Projects/StressManagement/StressManagement/obj/Debug/net7.0/ref/StressManagement.dll
